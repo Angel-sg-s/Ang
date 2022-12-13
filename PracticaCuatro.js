@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', function (event) {
         /*reescribe el documento*/
         document.write("Mas Pendejo todavia");
         alert("Que pendejo");
-        print();
 
     }
 })
