@@ -1,7 +1,12 @@
 body{
-    width: 100vh;
-    height: 100vh;
-    background-size: 170vh;
-    background-repeat: no-repeat;
-    background-image: url(https://1.bp.blogspot.com/-rFm-eBCw_O0/Uj8LV0iPoDI/AAAAAAABCyY/pxMB6I5hQGE/s1600/minions43.jpg);
+ box-sizing: border-box;
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: linear-gradient(225.64deg, #FF0C0C 50.99%, #05FF00 51.39%);
+mix-blend-mode: lighten;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
