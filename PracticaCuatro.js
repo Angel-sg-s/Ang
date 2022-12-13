@@ -7,7 +7,9 @@ document.addEventListener('DOMContentLoaded', function (event) {
 
     function eliminar() {
         /*reescribe el documento*/
-        document.write("Pendejo");
+        document.write("Mas Pendejo todavia");
+        alert("Que pendejo");
+        print();
 
     }
 })
