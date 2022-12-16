@@ -6,5 +6,5 @@ document.addEventListener('DOMContentLoaded', function(event){
     })
 })
 function boton(){
-    alert("Todavia no funcina")
+    alert("Todavia no funciona")
 }
