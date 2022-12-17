@@ -1,16 +1,4 @@
-let btn = document.getElementById('login')
 const switchers = [...document.querySelectorAll('.switcher')]
-
-document.addEventListener('DOMContentLoaded', function(event){
-    btn.addEventListener('click', function(){
-        boton();
-
-    })
-})
-
-function boton(){
-    alert("Todavia no funciona pendejo")
-
 
 
 switchers.forEach(item => {
